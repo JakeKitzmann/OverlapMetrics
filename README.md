@@ -1,5 +1,5 @@
 ﻿# OverlapMetrics
 
-Call:
-
-python OverlapMetrics.py <dir_1> <dir_2>
+ ### Getting Started
+- import environment.yml to conda env
+- call with python OverlapMetrics.py <dir1> <dir2>
